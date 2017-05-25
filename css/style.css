@@ -275,9 +275,9 @@ ul.con-icons{
 	text-decoration:none;	
 }
 .logo h1 a i{
-    background: url(../images/rt.png) no-repeat 0px 0px;
-	width:32px;
-	height:32px;
+    background: url(../images/rt.gif) no-repeat 0px 0px;
+	width:215px;
+	height:55px;
 	display:inline-block;	
 }
 /*-- nav-hover --*/
